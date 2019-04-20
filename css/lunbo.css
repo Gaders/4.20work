@@ -1,0 +1,85 @@
+.lunbo_change{
+    width: 1240px;
+    height: 500px;
+    background-image: url("./img/lunbo1.png") ;
+    display: flex;
+    align-items: center;
+    filter:opacity(0.4);
+    z-index: -1;
+    position: absolute;
+    
+}
+.lunbo{
+    width: 1240px;
+    height: 500px;
+   
+    display: flex;
+    align-items: center;
+
+    
+}
+.lunbo_left{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(80, 109, 121);
+    filter: opacity(0.5);
+    float: left;
+    cursor: pointer;
+
+}
+.lunbo_center{
+    width: 1140px;
+    height: 200px;
+   
+    float: left;
+    
+}
+.lunbo_right{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(29, 210, 175);
+    float: right;
+    
+    cursor: pointer;
+
+}
+.lunbo_center_top{
+    text-align: center;
+    font-size: 23px;
+    font-weight: 600;
+    color: white;
+    margin: 20px
+}
+.lunbo_center_middle{
+    text-align: center;
+    color: white;
+    margin-top: 20px
+}
+.lunbo_center_bottom{
+    text-align: center;
+  
+    margin-top: 20px
+}
+.lunbo_center_bottom_button1{
+    width: 120px;
+    height: 40px;
+    background-color: rgb(29, 210, 175);
+    border-radius: 5%;
+    border:2px solid rgb(29, 210, 175);
+    font-size: 10px;
+    font-weight: 500;
+    color: white;
+    cursor: pointer;
+    min-width: 80px;
+}
+.lunbo_center_bottom_button2{
+    width: 80px;
+    height: 40px;
+    background-color: transparent;
+    font-size: 10px;
+    color: white;
+    border-radius: 5%;
+    border:2px solid;
+    cursor: pointer;
+    min-width: 80px;
+}

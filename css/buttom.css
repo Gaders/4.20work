@@ -1,0 +1,54 @@
+.buttom{
+    width: 1240px;
+    height: 300px;
+    background-color: white;
+}
+.buttom_title{
+    width: 100%;
+    height: 30px;
+    text-align: center;
+    position: relative;
+    top:40px
+}
+.buttom_title_info{
+    width: 100%;
+    height: 30px;
+    text-align: center;
+    position: relative;
+    top:50px;
+    color: #666;
+}
+.buttom_u{
+    width: 1200px;
+    height: 150px;
+    
+    position: relative;
+    top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.buttom_l{
+    width: 330px;
+    height: 150px;
+    margin-left: 20px;
+   
+    float: left;
+    border: 1px solid rgb(148, 144, 144);
+
+}
+.buttom_2{
+    width: 330px;
+    height: 150px;
+    margin-left: 20px;
+    text-align:left;
+    float: left;
+  
+    border: 1px solid rgb(148, 144, 144);
+
+}
+.buttom_n2_d1_1{
+    width: 50px;
+    height: 50px;
+    margin-left: -5px;
+    background-color: rgb(29, 210, 175)
+}

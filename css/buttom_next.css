@@ -1,0 +1,248 @@
+.buttom_next{
+    width: 1240px;
+    height: 200px;
+    display: grid;
+    grid-template-columns:120px 250px 250px 250px 250px 120px;
+    grid-template-rows: 200px;
+}
+.buttom_n1{
+    width: 100%;
+    grid-column-start: 2;
+    grid-column-end:3; 
+    display: grid;
+    grid-template-columns:100%;
+    grid-template-rows: 1fr 1.5fr 1fr;
+    justify-items: start;
+}
+.green_color_buttom{
+    font-size: 25;
+    color: rgb(29, 210, 175);
+    position: relative;
+    left: -60px;
+    top:10px;
+}
+.span_buttom{
+    
+    font-size: 12px;
+    color: white;
+}
+.buttom_n1d{
+    width: 100%;
+    
+}
+.buttom_n1d_text{
+    border: 0 transparent;
+    border-radius: 2px;
+    width: 100px;
+    height: 20px;
+    color: rgb(129, 126, 126);
+}
+.buttom_n1d_button{
+    width: 40px;
+    height: 20px;
+    border: 0 transparent;
+    border-radius: 2px;
+    background-color: rgb(29, 210, 175);
+    color: white;
+}
+.buttom_n2{
+    width: 100%;
+    grid-column-start: 3;
+    grid-column-end:4; 
+    display: grid;
+    margin-left: 10px;
+    grid-template-columns:250px;
+    grid-template-rows: 1fr 1.5fr 1fr;
+   
+}
+.buttom_n2_d1{
+   width: 250px;
+   height: 50px;
+  
+}
+.buttom_n2_d2{
+    width: 250px;
+    height: 50px;
+   
+       
+
+ }
+.buttom_n2_d1_1{
+    width: 20%;
+    height: 100%; 
+    float: left;
+}
+.buttom_n2_d1_2{
+    width: 80%;
+    height: 100%;
+
+    float: right;
+}
+
+.buttom_n3{
+  
+    grid-column-start: 4;
+    grid-column-end:5; 
+    
+}
+.green_color_buttom3{
+    font-size: 25;
+    color: rgb(29, 210, 175);
+    position: relative;
+   
+    top:10px;
+   
+}
+.buttom_n3_all{
+    width: 250px;
+    height: 200px;
+    position: relative;
+    top:20px;
+    
+}
+.buttom_n3_1{
+    width: 80px;
+    height: 20px;
+    border: 1px solid white;
+    border-radius: 2px;
+    float: left;
+    margin-top: 5px;
+    font-size: 12px;
+    color: white;
+    text-align: center;
+    position: relative;
+    left: 5px;
+}
+.buttom_n3_2{
+    width: 100px;
+    height: 20px;
+    border: 1px solid white;
+    margin-left: 10px;
+    border-radius: 2px;
+    float: left;
+    margin-top: 5px;
+    font-size: 12px;
+    color: white;
+    text-align: center;
+}
+.buttom_n3_3{
+    width: 100px;
+    height: 20px;
+    border: 1px solid white;
+    margin-left: 5px;
+    border-radius: 2px;
+    float: left;
+    margin-top: 5px;
+    font-size: 12px;
+    color: white;
+    text-align: center;
+}
+.buttom_n3_4{
+    width: 50px;
+    height: 20px;
+    border: 1px solid white;
+    margin-left: 5px;
+    border-radius: 2px;
+    float: left;
+    margin-top: 5px;
+    font-size: 12px;
+    color: white;
+    text-align: center;
+}
+.buttom_n3_5{
+    width: 80px;
+    height: 20px;
+    border: 1px solid white;
+    margin-left: 5px;
+    border-radius: 2px;
+    float: left;
+    margin-top: 5px;
+    font-size: 12px;
+    color: white;
+    text-align: center;
+}
+
+.buttom_n3_6{
+    width: 60px;
+    height: 20px;
+    border: 1px solid white;
+    margin-left: 5px;
+    border-radius: 2px;
+    float: left;
+    margin-top: 5px;
+    font-size: 12px;
+    color: white;
+    text-align: center;
+}
+
+.buttom_n3_7{
+    width: 30px;
+    height: 20px;
+    border: 1px solid white;
+    margin-left: 5px;
+    border-radius: 2px;
+    float: left;
+    margin-top: 5px;
+    font-size: 12px;
+    color: white;
+    text-align: center;
+}
+.buttom_n3_8{
+    width: 70px;
+    height: 20px;
+    border: 1px solid white;
+    margin-left: 5px;
+    border-radius: 2px;
+    float: left;
+    margin-top: 5px;
+    font-size: 12px;
+    color: white;
+    text-align: center;
+}
+.buttom_n3_9{
+    width: 30px;
+    height: 20px;
+    border: 1px solid white;
+    margin-left: 5px;
+    border-radius: 2px;
+    float: left;
+    margin-top: 5px;
+    font-size: 12px;
+    color: white;
+    text-align: center;
+}
+.buttom_n3_10{
+    width: 30px;
+    height: 20px;
+    border: 1px solid white;
+    margin-left: 5px;
+    border-radius: 2px;
+    float: left;
+    margin-top: 5px;
+    font-size: 12px;
+    color: white;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.buttom_n4{
+    width: 100%;
+    grid-column-start: 5;
+    grid-column-end:6; 
+
+}
+.buttom_n4_info{
+    margin-top: 20px;
+}
